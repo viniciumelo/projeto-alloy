@@ -8,7 +8,7 @@ Antes de começar, certifique-se de ter o PHP e o Composer instalados em seu sis
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/projeto-alloy.git
+git clone https://github.com/viniciumelo/projeto-alloy.git
 
 
 2. Navegue até o diretório do projeto:
